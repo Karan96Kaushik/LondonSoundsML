@@ -1,0 +1,10 @@
+*.zip
+*.png
+*.jpg
+*.wav
+*.mp4
+*.csv
+*.pdf
+.ipynb_checkpoints/
+mel_*/
+MLEndLS*/
